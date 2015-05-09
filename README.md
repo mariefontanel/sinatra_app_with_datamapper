@@ -19,13 +19,13 @@ Attachez-vous à lire/décrypter/comprendre le fichier adserver.rb (fichier prin
 
 ### Quelques questions pour creuser
 
-#### Sur l'application en elle-meme
+#### Sur l'application en elle-meme (Beaucoup d'infos sur tout ce qui suit ici :http://www.sinatrarb.com/intro-fr.html)
  - Pourquoi il y a t il autant de 'require' en début de fichier
  - Qu'est-ce qu'une dépendance ?
  - Combien y'a-t-il d'objet dans cette application ? comment les reconnait-on
- - Qu'est-ce qu'une requete GET / POST ?
+ - Qu'est-ce qu'une requete GET / POST ? 
  - Qu'est-ce qu'une route ?
-
+   
 #### Sur les vues html.erb
  - Ou sont les pages web, comment les appelent-t-on ?
  - A quoi sert le fichier layout.erb dans le dossier views ?
